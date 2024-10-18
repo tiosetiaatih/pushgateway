@@ -1,4 +1,5 @@
 # Pushgateway Prometheus Agent
+A component of Prometheus that helps collect metrics for extremely brief jobs.
 
 ### How To
 
