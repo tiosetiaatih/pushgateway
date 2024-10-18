@@ -4,7 +4,7 @@ A component of Prometheus that helps collect metrics for extremely brief jobs.
 ### How To
 
 - clone to /opt/
-  git clone https://git-sysnet.detik.com/sysnet/monitoring/pushgateway.git
+  git clone https://github.com/tiosetiaatih/pushgateway.git
 - chmod +x /opt/pushgateway/cpu_usage
 - chmod +x /opt/pushgateway/memory_usage
 
